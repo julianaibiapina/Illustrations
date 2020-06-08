@@ -1,3 +1,3 @@
 # Illustrations
 Ilustrações feitas com o software Adobe Illustrator
-![myIllustration](my illustration.png)
+![myIllustration]('my illustration.jpg')
